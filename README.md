@@ -20,4 +20,6 @@ Aggregate table
 1. The aggregate table is a derivative of the base table where the data is grouped by date, id_customer and id_invoice
 2. The aggregate table is stored in the datamart
 
+
+**Data Visualization using Google Data Studio**
 ![](Images%20KF/Untitled.jpg)
