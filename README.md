@@ -1,4 +1,4 @@
-# Kimiafarma-Big-Data-Analytics
+# Kimiafarma-Datamart Analysis
 
 Kimia Farma is Indonesia's first pharmaceutical enterprise, created in 1817 by the Dutch East Indies Government. The Government of the Republic of Indonesia consolidated many pharmaceutical enterprises in 1958 to become the State Pharmaceutical Company Bhinneka Kimia Farma. The company name was changed to PT Kimia Farma on August 16, 1971, when the legal entity form of PNF was transformed to a Limited Liability Company (Persero). Kimia Farma requires a datamart design and analyzes it to discover insights that will help the company to grow.
 
