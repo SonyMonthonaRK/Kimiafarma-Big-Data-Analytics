@@ -1,0 +1,23 @@
+Company_ID;Company;Category;Sales;Profit;UpdateDate;CategoryName
+C001;Abbott Laboratories;CAT001;Rp96.000.000;Rp10.800.000;01/01/2022;Ethical Pharmaceutical Manufacturers
+C002;American Home Products Corporation;CAT002;Rp29.500.000;Rp3.100.000;01/01/2022;Holding Companies
+C003;"Avon Allied Products, Inc.";CAT003;Rp86.800.000;Rp8.100.000;01/01/2022;Cosmetics Manufacturers
+C004;Bristol-Myers Co.;CAT002;Rp89.400.000;Rp5.600.000;01/01/2022;Holding Companies
+C005;"Chas. Pfizer & Co., Inc.";CAT004;Rp17.800.000;Rp1.830.000;01/01/2022;Medicinal (Fine) Chemical Manufacturers
+C006;"Coty, Inc.";CAT003;Rp24.100.000;Rp5.000.000;01/01/2022;Cosmetics Manufacturers
+C007;Eli Lilly & Co.;CAT001;Rp18.150.000;Rp3.000.000;01/01/2022;Ethical Pharmaceutical Manufacturers
+C008;"Helena Rubinstein, Inc.";CAT003;Rp23.300.000;Rp1.200.000;01/01/2022;Cosmetics Manufacturers
+C009;"Helene Curtis Industries, Inc.";CAT003;Rp42.100.000;Rp2.200.000;01/01/2022;Cosmetics Manufacturers
+C010;Heyden Chemical Corp.;CAT004;Rp46.500.000;Rp2.600.000;01/01/2022;Medicinal (Fine) Chemical Manufacturers
+C011;Lehn & Fink Products Corporation;CAT005;Rp25.700.000;Rp3.000.000;01/01/2022;Proprietary Manufacturers
+C012;Max Factor & Co.;CAT003;Rp32.600.000;Rp2.000.000;01/01/2022;Cosmetics Manufacturers
+C013;"Mead, Johnson & Co.";CAT001;Rp45.300.000;Rp4.000.000;01/01/2022;Ethical Pharmaceutical Manufacturers
+C014;"Merck & Co., Inc.";CAT004;Rp172.400.000;Rp20.200.000;01/01/2022;Medicinal (Fine) Chemical Manufacturers
+C015;"Parke, Davis & Co.";CAT001;Rp134.100.000;Rp17.600.000;01/01/2022;Ethical Pharmaceutical Manufacturers
+C016;"Plough, Inc.";CAT005;Rp24.500.000;Rp1.200.000;01/01/2022;Proprietary Manufacturers
+C017;Revlon Products Corp.;CAT003;Rp85.800.000;Rp8.400.000;01/01/2022;Cosmetics Manufacturers
+C018;Schering Corporation;CAT001;Rp56.900.000;Rp1.060.000;01/01/2022;Ethical Pharmaceutical Manufacturers
+C019;"Shulton, Inc.";CAT003;Rp29.300.000;Rp2.800.000;01/01/2022;Cosmetics Manufacturers
+C020;"Smith, Kline, & French Laboratories";CAT001;Rp104.600.000;Rp18.800.000;01/01/2022;Ethical Pharmaceutical Manufacturers
+C021;"Sterling Drug, Inc.";CAT002;Rp177.700.000;Rp16.900.000;01/01/2022;Holding Companies
+C022;Warner-Lambert Pharmaceutical Co.;CAT002;Rp137.800.000;Rp10.800.000;01/01/2022;Holding Companies
